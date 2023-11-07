@@ -28,8 +28,8 @@ I also write about tech and related topics on my [Substack](https://shaunakdas.s
 
 Feel free to connect with me on LinkedIn or reach out on Twitter. Let's collaborate and explore the endless possibilities of technology together!
 
-- 🔭 I’m currently working on langchain and golang projects.
-- 🌱 I’m currently learning rust.
+- 🔭 I’m currently working on langchain and golang projects. Check out my Langchain and Golang Portfolio.
+- 🌱 I’m currently learning rust. 
 - 👯 I’m looking to collaborate on open source projects around langchain, golang and rust.
 - 🤔 I’m looking for help with mastering LLMs.
 - 💬 Ask me about scaling engineering teams and driving high-impact projects from conception to successful deployment
