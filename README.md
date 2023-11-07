@@ -28,8 +28,8 @@ I also write about tech and related topics on my [Substack](https://shaunakdas.s
 
 Feel free to connect with me on LinkedIn or reach out on Twitter. Let's collaborate and explore the endless possibilities of technology together!
 
-- 🔭 I’m currently working on langchain and golang projects. Check out my [Langchain](https://github.com/Shaunakdas/Shaunakdas/blob/main/portfolio/langchain.md) and [Golang Portfolio](https://github.com/Shaunakdas/Shaunakdas/blob/main/portfolio/golang.md).
-- 🌱 I’m currently learning rust. Currently building my [Rust portfolio(WIP)](https://github.com/Shaunakdas/Shaunakdas/blob/main/portfolio/rust.md) 
+- 🔭 I’m currently working on langchain and golang projects. Check out my [Langchain](portfolio/langchain.md) and [Golang Portfolio](portfolio/golang.md).
+- 🌱 I’m currently learning rust. Currently building my [Rust portfolio(WIP)](portfolio/rust.md) 
 - 👯 I’m looking to collaborate on open source projects around langchain, golang and rust.
 - 🤔 I’m looking for help with mastering LLMs.
 - 💬 Ask me about scaling engineering teams and driving high-impact projects from conception to successful deployment
