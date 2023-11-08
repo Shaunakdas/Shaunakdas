@@ -13,8 +13,8 @@ Creating a RAG chatbot using open-source tools and AWS services. Technologies us
 ### 3. [**gpt-idea-validator**](https://github.com/Shaunakdas/gpt-idea-validator)
 Streamlit app for validating startup idea using and OpenAI.
 
-### 4. [**langchain-text-summary**](https://github.com/Shaunakdas/langchain-text-summary)
-Streamlit web application for summarizing text using LangChain and OpenAI.
+### 4. [**langchain-next-chat**](https://github.com/Shaunakdas/langchain-next-chat)
+NextJS Web Application to chat using  LangChain and OpenAI.
 
 ### 4. [**langchain-text-summary**](https://github.com/Shaunakdas/langchain-url-summary)
 Langchain app that summarizes the content of a given URL
