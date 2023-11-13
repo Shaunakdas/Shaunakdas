@@ -4,14 +4,14 @@ I'm passionate about building robust and scalable software solutions using the G
 
 ## 🚀 My Projects
 
-### 1. [**raft**](link-to-repository)
-Implementation of Raft distributed consensus algorithm.
+### 1. [**go-quadtree**](https://github.com/Shaunakdas/go-quadtree)
+Generic, zero-alloc, 100%-test covered Quadtree for Golang.
 
-### 2. [**bloomfilters**](link-to-repository)
+### 2. [**go-bloom**](https://github.com/Shaunakdas/go-bloom)
 Set of bloom filter implementations.
 
-### 3. [**quadtree**](link-to-repository)
-QuadTree Implementation.
+### 3. [**go-session**](https://github.com/Shaunakdas/go-session)
+A dead simple, highly performant, highly customizable sessions middleware for go http servers.
 
 ### 4. [**go-student-management-system**](https://github.com/Shaunakdas/go-student-management-system)
 Student Management System written in golang with echo and gorm
