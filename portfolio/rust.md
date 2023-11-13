@@ -10,7 +10,7 @@ Batch rename utility for developers.
 ### 2. [**browser-history-backup**](https://github.com/Shaunakdas/browser-history-backup)
 Command line tool to backup your different browser histories into one file, and visualize them.
 
-### 3. [**quadtree**](link-to-repository)
-QuadTree Implementation.
+### 3. [**rust-priority-queue**](https://github.com/Shaunakdas/rust-priority-queue)
+A priority queue for Rust with efficient change function.
 
 
