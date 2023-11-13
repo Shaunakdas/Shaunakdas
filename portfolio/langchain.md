@@ -4,11 +4,11 @@ I'm passionate about building robust and scalable LLM projects using the Langcha
 
 ## 🚀 My Projects
 
-### 1. [**rag-langchain-pinecone**](link-to-repository)
-AI Chatbot. Used LangChain, OpenAI, and Pinecone vector DB, to build a chatbot capable of learning from the external world using Retrieval Augmented Generation (RAG).
+### 1. [**langchain-kit**](https://github.com/Shaunakdas/langchain-kit)
+A Toolkit for Creating and Deploying LangChain Apps
 
-### 2. [**rag-langchain-faiss**](link-to-repository)
-Creating a RAG chatbot using open-source tools and AWS services. Technologies used: LangChain, Hugging Face, FAISS, Amazon SageMaker, and Amazon TextTract
+### 2. [**doc-supporter**](https://github.com/Shaunakdas/doc-supporter)
+AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites
 
 ### 3. [**gpt-idea-validator**](https://github.com/Shaunakdas/gpt-idea-validator)
 Streamlit app for validating startup idea using and OpenAI.
